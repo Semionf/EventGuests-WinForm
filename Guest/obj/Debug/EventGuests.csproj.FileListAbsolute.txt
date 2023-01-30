@@ -1,0 +1,12 @@
+C:\Users\sfurl\source\repos\EventGuests\Guest\bin\Debug\Guest.exe.config
+C:\Users\sfurl\source\repos\EventGuests\Guest\bin\Debug\Guest.exe
+C:\Users\sfurl\source\repos\EventGuests\Guest\bin\Debug\Guest.pdb
+C:\Users\sfurl\source\repos\EventGuests\Guest\obj\Debug\EventGuests.csproj.AssemblyReference.cache
+C:\Users\sfurl\source\repos\EventGuests\Guest\obj\Debug\EventGuests.csproj.SuggestedBindingRedirects.cache
+C:\Users\sfurl\source\repos\EventGuests\Guest\obj\Debug\frmCategory.frmCategories.resources
+C:\Users\sfurl\source\repos\EventGuests\Guest\obj\Debug\Guest.frmGuest.resources
+C:\Users\sfurl\source\repos\EventGuests\Guest\obj\Debug\Guest.Properties.Resources.resources
+C:\Users\sfurl\source\repos\EventGuests\Guest\obj\Debug\EventGuests.csproj.GenerateResource.cache
+C:\Users\sfurl\source\repos\EventGuests\Guest\obj\Debug\EventGuests.csproj.CoreCompileInputs.cache
+C:\Users\sfurl\source\repos\EventGuests\Guest\obj\Debug\Guest.exe
+C:\Users\sfurl\source\repos\EventGuests\Guest\obj\Debug\Guest.pdb
